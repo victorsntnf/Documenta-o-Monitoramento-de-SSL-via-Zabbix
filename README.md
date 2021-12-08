@@ -1,8 +1,6 @@
 # Documentação
 Documentação Monitoramento de SSL via Zabbix integrado com o envio de alertas para o telegram
 
-# Monitoramento SSL via Zabbix.
-Monitoramento SSL via Zabbix integrado com o Telegram para recebimentos de alertas:
 
 ## Configurações no Servidor Zabbix
 
